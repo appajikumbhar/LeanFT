@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Kshama/Cucumber with Eclipse Plugins/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Kshama/Cucumber with Eclipse Plugins/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Kshama/Cucumber with Eclipse Plugins/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Kshama/Cucumber with Eclipse Plugins/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Kshama/Cucumber with Eclipse Plugins/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Kshama/Cucumber with Eclipse Plugins/gherkin-2.12.2.jar"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/HPE/LeanFT/SDK/Java/com.hp.lft.sdk-standalone.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:\Program Files (x86)\HPE\LeanFT\SDK\Java\com.hp.lft.sdk-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/HPE/LeanFT/SDK/Java/com.hp.lft.unittesting.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:\Program Files (x86)\HPE\LeanFT\SDK\Java\com.hp.lft.sdk-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/HPE/LeanFT/SDK/Java/com.hp.lft.report.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:\Program Files (x86)\HPE\LeanFT\SDK\Java\com.hp.lft.sdk-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/HPE/LeanFT/SDK/Java/com.hp.lft.reportbuilder-standalone.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:\Program Files (x86)\HPE\LeanFT\SDK\Java\com.hp.lft.sdk-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/HPE/LeanFT/SDK/Java/com.hp.lft.verifications.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:\Program Files (x86)\HPE\LeanFT\SDK\Java\com.hp.lft.sdk-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
